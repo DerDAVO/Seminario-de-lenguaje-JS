@@ -1,1 +1,1 @@
-# Seminario de lenguaje Java Script
+Seminaro de lenguaje JavaScript
